@@ -43,7 +43,7 @@ Autoweave Notes is a modern, AI-enhanced note-taking application built with Reac
 
 ```bash
 git clone https://github.com/amalrajiv/autoweavenotes.git
-cd autoweave
+cd autoweavenotes
 ```
 
 2. Install dependencies:
