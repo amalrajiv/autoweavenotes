@@ -28,6 +28,20 @@ Autoweave Notes is a modern, AI-enhanced note-taking application built with Reac
 - 👥 Multi-user support
 - 🔐 Row-level security for data protection
 
+
+### Screenshots
+
+<img width="1512" alt="Screenshot 2025-03-28 at 1 49 12 PM" src="https://github.com/user-attachments/assets/c32682f2-5846-44b8-9690-0ae3e78e5bea" />
+
+<img width="1512" alt="Screenshot 2025-03-28 at 1 49 22 PM" src="https://github.com/user-attachments/assets/5bb7c915-d4dc-4d5a-ba81-0ec0ca0fd850" />
+
+<img width="1511" alt="Screenshot 2025-03-28 at 1 49 32 PM" src="https://github.com/user-attachments/assets/4badcee4-643c-4abe-8260-f2cfa6658ec7" />
+
+<img width="1512" alt="Screenshot 2025-03-28 at 1 49 41 PM" src="https://github.com/user-attachments/assets/954d4c3a-34a4-4da2-b0ea-9aa71454604d" />
+
+<img width="1512" alt="Screenshot 2025-03-28 at 1 49 57 PM" src="https://github.com/user-attachments/assets/73e8be1c-975e-4927-a6d0-6e1cfa4d7b77" />
+
+
 ## Getting Started
 
 ### Prerequisites
